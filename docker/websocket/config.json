@@ -1,0 +1,7 @@
+{
+  "token_hmac_secret_key": "02ecfd18-e3c5-427a-afd1-9413ae2e4f12",
+  "admin_password": "0107b5fb-9a96-44f9-8de4-6240549a032c",
+  "admin_secret": "176513d9-5e93-46df-937d-1f0b700d29a4",
+  "api_key": "0a746328-3f13-4bc9-b13e-a426702ad362",
+  "allowed_origins": []
+}
